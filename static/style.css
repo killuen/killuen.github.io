@@ -1,14 +1,43 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(0, 0, 59);
 }
 
 #title {
-  background-color: darkblue;
-  color: white;
+  background-color: lightblue;
+  color: black;
   margin: 50px;
   padding: 20px;
   text-align: center;
   font-family: sans-serif;
  }
+
+.details {
+  background-color: white;
+  color: black;
+  margin: 50px;
+  padding: 20px;
+  text-align: left;
+  font-family: sans-serif;
+}
+
+.details a{
+  color: black;
+  text-align: left;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+.details a:link, a:visited{
+  color: black;
+  text-align: left;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+.details a:hover, a:active {
+  background-color: rgb(0, 0, 0.295);
+}
+
+
 
 
