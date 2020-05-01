@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+
+#title {
+  background-color: darkblue;
+  color: white;
+  margin: 50px;
+  padding: 20px;
+  text-align: center;
+  font-family: sans-serif;
+ }
+
+
