@@ -35,7 +35,7 @@ body {
 }
 
 .details a:hover, a:active {
-  background-color: rgb(0, 0, 0.295);
+  color: rgb(136, 136, 136);
 }
 
 
