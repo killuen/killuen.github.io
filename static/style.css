@@ -24,12 +24,14 @@ body {
   color: black;
   text-align: left;
   font-family: sans-serif;
+  font-style: italic;
 }
 
 .details a:link, a:visited{
   color: black;
   text-align: left;
   font-family: sans-serif;
+  font-style: italic;
 }
 
 .details a:hover, a:active {
